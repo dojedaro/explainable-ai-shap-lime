@@ -1,0 +1,13 @@
+# Packages the notebook imports or installs. Versions were not recorded when it was run;
+# pin them (pip freeze) after a successful run to make it fully reproducible.
+lime
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+scipy
+seaborn
+shap
+tensorflow
+xgboost
