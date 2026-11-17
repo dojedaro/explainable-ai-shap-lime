@@ -86,7 +86,7 @@ Python, SHAP, LIME, scikit-learn, XGBoost, TensorFlow/Keras, pandas, Matplotlib,
 - One cell's SHAP inputs came from a cell that was later removed; the notebook explains how to
   recompute them.
 
-*Extracted on 2026-11-13 from a catch-all coursework repository into its own project.*
+*Moved into its own repository on 2026-11-13 from an older multi-project repository.*
 
 ## License
 
